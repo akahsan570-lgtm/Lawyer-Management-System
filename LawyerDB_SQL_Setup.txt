@@ -1,0 +1,6 @@
+SELECT* FROM Users;
+SELECT* FROM ClientProfiles;
+SELECT* FROM LawyerProfiles;
+SELECT* FROM Cases;
+
+
